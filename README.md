@@ -1,0 +1,2 @@
+# powershell
+Usefull powershell commands.
